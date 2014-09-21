@@ -1,0 +1,34 @@
+
+.introBg{
+	background: url('https://farm4.staticflickr.com/3873/15252181125_04b4416b95_k.jpg');
+	height:100%;
+	background-size:cover;
+	color:white;
+	padding-top:30px;
+}
+
+.introTitle{
+	margin-bottom:10px;
+}
+
+.introH1{
+	font-size:6em;
+	font-weight:600;
+	display:inline;
+}
+
+.introOptions li{
+	font-size:2.5em;
+	font-weight:500;
+	display: inline;
+	margin-left:15px;
+
+}
+
+.devNote{
+	display:inline;
+	font-weight:100;
+	 font-style: italic;
+	 font-size:1.3em;
+	 letter-spacing:.1em;
+}
